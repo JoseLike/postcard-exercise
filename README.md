@@ -1,26 +1,28 @@
-# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
+# Postcard exercise
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
+Creando una postal con HTML y CSS
 
-The most basic boilerplate for any 4Geeks Academy student using the [gitpod.io](gitpod.io) coding editor.
+### Pre-requisitos 📋
 
-[![How to open html/css preview of my project in gitpod](https://github.com/4GeeksAcademy/Templates-Boilerplates/blob/master/assets/hello-html-intro.png?raw=true)](https://youtu.be/dfbDCMu_p-0)
+1. Ordenador o dispositivo movil.
+2. Programa donde copiar el repositorio. (Gitpod, VisualStudioCode, Pycharm ....)
+3. Navegador web donde visualizar el resultado del codigo.
 
-## What to do next?
 
-Create an `index.html` file with the [basic HTML structure](http://content.breatheco.de/lesson/what-is-html-learn-html#page-structure) and see it live by running a web-server using the following command:
+## Construido con 🛠️
 
-```sh
-$ pip3 install flask && python3 server.py
-```
+* [HTML5] - Base del Front-end
+* [CSS3] - Estilos de HTML
 
-- You can create as many HTML files as you want
-- You can also create CSS files and import them into your website using a `<link>` tag placed between the `<head></head>` tags, like this:
 
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
-```
+
+## Estructura y explicación del codigo ⚙️
+
+* Postal creada en HTML. Se crea un div principal de clase postcard, dentro de el se crea un div postcard-header el cual incluye el titulo de la postal y el logo de 4GeeksAcademy. A continuacion se cre un div que es el cuerpo de la postal, este mismo esta dividido en dos divs. Un div incluye los elementos de la izquierda que son texto y otro los elementos de la derecha que son 3 inputs de texto. Finalmente hay un div 
+
+
+## Autor ✒️
+
+* **Jose Luis Gil** - *Ejercicio completo* - [JoseLike](https://github.com/JoseLike)
+
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/JoseLike/excuse-generator/contributors) quíenes han participado en este proyecto. 
