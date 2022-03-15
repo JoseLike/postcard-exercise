@@ -4,11 +4,20 @@ body {
 	font-size: 20px;
 }
 
+.contenedor {
+	display: flex;
+  	width: 100vw;
+ 	height: 100vh;
+ 	justify-content: center;
+  	align-items: center;
+}
+
 .postcard {
+	vertical-align: auto;
 	background: white;
 	width: 400px;
 	height: 300px;
-	margin: auto;
+	
 }
 .postcard-header {
 	display: flex;

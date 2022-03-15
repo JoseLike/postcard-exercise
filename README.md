@@ -14,6 +14,13 @@ Creando una postal con HTML y CSS
 * [HTML5] - Base del Front-end
 * [CSS3] - Estilos de HTML
 
+## Deployment
+
+Para lanzar este proyecto
+
+```bash
+  pip3 install flask && python server.py
+```
 
 
 ## Estructura y explicación del codigo ⚙️
